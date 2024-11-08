@@ -1,4 +1,4 @@
-# Reservación de citas médicas
+# 🌐 ES: Reservación de citas médicas
 
 **Descripción del Proyecto: Sistema de Gestión de Pacientes con Next.js, Twilio, TypeScript y TailwindCSS**
 
@@ -25,3 +25,33 @@ Este proyecto consiste en la construcción de un sistema de gestión sanitaria l
 ### Habilidades Desarrolladas
 
 Al finalizar este proyecto, tendrás experiencia en la construcción de aplicaciones complejas de gestión de salud, utilizando herramientas modernas y estándares de seguridad elevados. Estas habilidades son altamente valoradas en el mercado laboral, especialmente en el sector tecnológico y sanitario, lo que fortalecerá tu empleabilidad y te permitirá resolver problemas reales en el sector salud.
+
+#
+
+# 🌐 EN: Medical Appointment Reservation
+
+**Project Description: Patient Management System with Next.js, Twilio, TypeScript, and TailwindCSS**
+
+This project involves building a healthcare management system called **Care Pools**, designed to optimize workflow in healthcare environments through automation and real-time communication. The system allows for the scheduling and management of medical appointments, automated SMS notifications to remind patients of their appointments, and the administration of patient and doctor records. Upon completion, you will have a comprehensive tool that enhances patient care efficiency, ideal for your professional portfolio and demonstrating your skills with modern technologies.
+
+### Key Features
+
+- **Patient Authentication and Registration**: Users can register by providing personal and medical information. This allows the system to store relevant data and improve the patient experience.
+- **Admin Panel**: Administrators have access to a dashboard where they can schedule or cancel appointments, send automated SMS notifications, and review patients' appointment histories, ensuring efficient management of healthcare resources.
+
+- **Real-Time Notifications**: Using Twilio, the system sends SMS notifications to patients to remind them of their appointments, improving punctuality and reducing no-shows.
+
+- **Custom and Responsive Forms**: The platform includes adaptive forms that facilitate the collection of contact information, medical history, and patient preferences, optimized for various devices.
+
+- **Data Validation and Security**: Form validation and secure handling of sensitive data are implemented, ensuring patients can trust the platform. Sentry is used to monitor and resolve real-time errors, enhancing system reliability.
+
+### Technologies Used
+
+- **Next.js**: Enables the development of a fast and scalable application, suitable for high-demand environments like appointment management in a healthcare setting.
+- **TypeScript**: Facilitates the creation of more secure and structured code, which is crucial in a healthcare system.
+- **Twilio**: Provides SMS notification functionality, keeping patients informed about their appointments.
+- **TailwindCSS**: Ensures the application is visually appealing and responsive on any device, offering a smooth user experience.
+
+### Skills Developed
+
+Upon completing this project, you will have experience in building complex healthcare management applications using modern tools and high-security standards. These skills are highly valued in the job market, especially in the tech and healthcare sectors, strengthening your employability and enabling you to solve real-world problems in the healthcare industry.
